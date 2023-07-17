@@ -1,0 +1,12 @@
+.book {
+  width: 500px;
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.book-title {
+  margin-bottom: 100px;
+}
