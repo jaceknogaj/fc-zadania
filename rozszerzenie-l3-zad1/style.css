@@ -1,0 +1,30 @@
+.div1 {
+  width: 200px;
+  height: 200px;
+  background-color: cyan;
+  display: inline-block;
+}
+.div2 {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: magenta;
+}
+.div3 {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: yellow;
+}
+
+.div4 {
+  width: 600px;
+  height: 200px;
+  background-color: black;
+  display: block;
+}
+
+.negative-margin {
+  margin-right: -4px;
+  margin-top: -4px;
+}
